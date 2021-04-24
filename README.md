@@ -1,2 +1,3 @@
 # SCALNet
-A simple yet effective crowd counting and localization network (SCALNet)
+The paper "DENSE POINT PREDICTION: A SIMPLE BASELINE FOR CROWD COUNTING AND LOCALIZATION" is accepted at IEEE ICMEW 2021.
+Code coming soon.
