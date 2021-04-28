@@ -1,0 +1,3 @@
+h5py
+numpy
+scikit-learn==4.2.0.32
