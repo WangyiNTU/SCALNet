@@ -300,7 +300,7 @@ def test_model_origin(net, data_loader, save_output=False, save_path=None, test_
                                                                          loc_str=loc_str))
 
         del data, dens
-        detail += "index: {}; fname: {}; gt: {}; et: {}; dif: {};\n".format(i, fname[0].split('.')[0], gt_count, et_count, gt_count-et_count)
+        detail += "index: {}; fname: {}; gt: {}; et_dm: {:.0f}; dif_dm: {:.0f};\n".format(i, fname[0].split('.')[0], gt_count, et_count_dm, gt_count-et_count_dm)
         mae += abs(gt_count - et_count)
         mse += ((gt_count - et_count) * (gt_count - et_count))
         if gt_count != 0:
