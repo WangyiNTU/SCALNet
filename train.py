@@ -44,7 +44,7 @@ logging.basicConfig(level=logging.INFO,
 
 if __name__ == '__main__':
     
-    rand_seed = 64678
+    rand_seed = None
     if rand_seed is not None:
         np.random.seed(rand_seed)
         torch.manual_seed(rand_seed)
