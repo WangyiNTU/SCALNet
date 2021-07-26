@@ -1,5 +1,5 @@
 # Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization
-This work was finished in Dec. 2020, and accepted by IEEE ICME Workshop, 2021 [(arXiv version).](https://arxiv.org/abs/2104.12505)
+This work was finished in Dec. 2020, and accepted by IEEE ICME Workshop, 2021. [(arXiv version)](https://arxiv.org/abs/2104.12505) and [(IEEE version)](https://ieeexplore.ieee.org/abstract/document/9455954).
 The code is developed based on the framework [Deep Structured Scale Integration Network, ICCV, 2019](https://github.com/Legion56/Counting-ICCV-DSSINet) and [CenterNet.](https://github.com/xingyizhou/CenterNet)
 
 ## Introduction
