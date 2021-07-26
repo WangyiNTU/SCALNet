@@ -134,13 +134,13 @@ The third row shows the predicted density maps and counts. Zoom in the figure fo
 If you find this paper and code useful in your research, please cite our papers.
 
 ```
-@misc{wang2021dense,
-      title={Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization}, 
-      author={Yi Wang and Xinyu Hou and Lap-Pui Chau},
-      year={2021},
-      eprint={2104.12505},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{wang2021dense,
+  title={Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization},
+  author={Wang, Yi and Hou, Xinyu and Chau, Lap-Pui},
+  booktitle={2021 IEEE International Conference on Multimedia \& Expo Workshops (ICMEW)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
 }
 ```
 
