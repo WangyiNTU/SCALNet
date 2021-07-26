@@ -116,8 +116,9 @@ Refer to the [leaderboard](https://www.crowdbenchmark.com/nwpucrowdloc.html) to 
 
 | Dataset | MAE | MSE | NAE |
 |  ---- |  ---- | ---- |---- |
-| [BL, ICCV2019](https://arxiv.org/abs/1908.03684)| 105.4 | 454.2 | <strong>0.203</strong>|
+| [BL, ICCV2019](https://arxiv.org/abs/1908.03684)| 105.4 | 454.2 | 0.203|
 | [SFCN, CVPR2019](https://arxiv.org/abs/1903.03303)| 105.7 | 424.1 | 0.254|
+| [IIM(HRNet), 2021](https://arxiv.org/abs/2012.04164)| 87.1 | 406.2 | <strong>0.152</strong>|
 | SCALNet (ours)| <strong>86.8</strong> | <strong>339.9</strong> | 0.218|
 
 Refer to the [leaderboard](https://www.crowdbenchmark.com/nwpucrowd.html) to compare with recent counting works.
